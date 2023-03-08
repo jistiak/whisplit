@@ -6,10 +6,13 @@ data/
 # C extensions
 *.so
 
+/sentencepiece/
+
 # Distribution / packaging
 .Python
 build/
 develop-eggs/
+/local/
 dist/
 /downloads/
 eggs/
